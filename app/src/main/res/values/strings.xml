@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="no">Enter account number</string>
+    <string name="btn">Submit</string>
+</resources>
